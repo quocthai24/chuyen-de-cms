@@ -1,1 +1,1 @@
-File week1 thuộc branch week.txt
+File week1 thuộc branch week1 và main
